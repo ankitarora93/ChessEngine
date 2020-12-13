@@ -29,7 +29,7 @@ public class Chess {
         {"R","K","B","Q","A","B","K","R"}};
     
     static int kingPositionC, kingPositionL; /* kingPostionC (where C stands for Capital) will monitor
-    poisition of the white king and kingPositionL will monitor the position of black king */
+    poisition of the white king and kingPositionL will monitor the position of black king  */
     
     static int humanAsWhite = -1; //variable to specify who plays as white. 1 = human as white, 0 = human as black
     
